@@ -6,7 +6,7 @@ description: More information about me and this website.
 
 I am ...
 
-## My skills
+## My artistic endevaors
 
 <div id="skills">
 <div>
